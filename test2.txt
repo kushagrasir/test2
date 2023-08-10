@@ -1,2 +1,3 @@
 hi, welcome to test2 file 
-I am local git
+I am local 
+I am  global 
